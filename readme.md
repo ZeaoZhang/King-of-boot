@@ -1,4 +1,4 @@
-# java spring框架练手项目
+# java spring框架项目
 
 #### 贪吃蛇线上对战游戏
 
