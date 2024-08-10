@@ -1,7 +1,23 @@
-# java spring框架项目
+## King of bots
 
-#### 贪吃蛇线上对战游戏
+基于SpringBoot的AI对战平台
 
-- 利用微服务实现系统后端，匹配系统和bot运行系统
-- 利用vue3实现web端代码
-- 使用mysql存储数据
+### 实现模块
+
+* PK
+
+  * 匹配界面（微服务）
+  * 实况直播（websocket）
+  * 真人PK（websocket）
+  * Bot代码执行（微服务）
+* 对战列表
+
+  * 录像回放
+* 排行榜
+* 用户中心
+
+  * 注册
+  * 登录
+  * 我的Bot
+  * Bot的记录
+
