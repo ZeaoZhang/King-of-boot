@@ -7,7 +7,6 @@
 * PK
 
   * 匹配界面（微服务）
-  * 实况直播（websocket）
   * 真人PK（websocket）
   * Bot代码执行（微服务）
 * 对战列表
